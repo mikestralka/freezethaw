@@ -1,0 +1,3 @@
+Daily Weather Data for MSP Airport
+NWS via MNDNR
+https://www.dnr.state.mn.us/climate/historical/daily-data.html?sid=215435&sname=MINNEAPOLIS%20ST%20PAUL%20INTL%20AP&sdate=por&edate=por
